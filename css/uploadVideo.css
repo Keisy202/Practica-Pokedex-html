@@ -1,0 +1,66 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.upload-video {
+    text-align: center;
+}
+
+.upload-video-header {
+    color: #3cdd2e;
+}
+
+.upload-video-header--img {
+    width: 6%;
+}
+
+.upload-video-header-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+  
+.search-bar {
+    width: 89%;
+    height: 50px;
+    font-size: 16px;
+    padding: 3px;
+    border-radius: 20px;
+    padding-left: 5px;
+    margin: 0 20px;
+}
+  
+.search-button {
+    font-size: 16px;
+    background-color: #f4b136;
+    color: #fff;
+    border-radius: 24px;
+    cursor: pointer;
+    width: 13%;
+}
+
+.upload-video-content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    margin: 12px 0;
+}
+label {
+    text-align: left;
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+    margin: 12px 0;
+}
